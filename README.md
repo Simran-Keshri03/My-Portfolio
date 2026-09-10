@@ -5,7 +5,7 @@
 A modern, sleek, high-performance personal portfolio website built with semantic HTML5, modern vanilla CSS3 (with Glassmorphism and dual Light/Dark theme support), and vanilla JavaScript.
 
 ## 🚀 Live Demo
-- **Website URL:** [https://simran-keshri03.github.io/portfolio/](https://simran-keshri03.github.io/portfolio/)
+- **Website URL:** [https://simran-keshri03.github.io/My-Portfolio/](https://simran-keshri03.github.io/My-Portfolio/)
 
 ---
 
